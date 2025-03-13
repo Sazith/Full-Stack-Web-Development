@@ -9,6 +9,7 @@
   "author": "Sazith Shyonton",
   "license": "ISC",
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "superheroes": "^4.0.0",
     "supervillains": "^4.0.0"
   }
