@@ -1,0 +1,22 @@
+
+* For Current Path
+ -> pwd
+
+ * For move to a directory
+ -> cd directory_name
+
+ * Find all materials in a path
+ -> ls
+
+ * For create a folder
+ -> mkdir folder_name
+
+ * For create a file
+ -> touch file_name.extension
+
+ * For open folder
+
+ -> code .
+
+ * For create a node project
+ -> npm init
